@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adithyan t" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" alt="adithyan t" height="50" width="50" /></a><a href="https://www.instagram.com/a_d_i_t_h_6_2_8/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="adithyan t" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/adithyan t" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" alt="adithyan t" height="50" width="50" /></a>  <a href="https://www.instagram.com/a_d_i_t_h_6_2_8/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="adithyan t" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Blender.png" alt="blender" width="40" height="40"/> </a>  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="react" width="40" height="40"/> </a>
+<p align="left"><a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Blender.png" alt="blender" width="40" height="40"/> </a>  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="react" width="40" height="40"/> </a>
 </p>
 
 
