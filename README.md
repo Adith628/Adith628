@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adithyan t" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" alt="adithyan t" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/adithyan t" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" alt="adithyan t" height="50" width="50" /></a><a href="https://www.instagram.com/a_d_i_t_h_6_2_8/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="adithyan t" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
