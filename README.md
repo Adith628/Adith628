@@ -18,8 +18,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Blender.png" alt="blender" width="40" height="40"/> </a>  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="react" width="40" height="40"/> </a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adith628&show_icons=true&locale=en&layout=compact" alt="adith628" /></p>
