@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👯 I’m looking to collaborate on **small projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 💬 Ask me about **html, css, javascript, react,**
 
